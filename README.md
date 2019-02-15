@@ -52,7 +52,7 @@
 
 &emsp;首先要学习几个概念——**工作区，暂存区，版本库**。他们之间的关系如下图
 
-![引用自Runoob](https://github.com/skrskrcyy/git-/blob/master/10.png)
+![引用自Runoob](https://github.com/skrskrcyy/git-/blob/master/trees.png)
 
 &emsp;这三个区域其实没有什么神秘的，他们都是个文件夹（为树结构）。他们的作用分别为
 - **工作区：实际持有的文件夹，即你可以在 我的电脑 里找到的文件夹。用于实际项目开发。**
@@ -135,7 +135,7 @@
 
 &emsp;首先，**第一步——`git log`查看历史版本**：
 
-![](https://img2018.cnblogs.com/blog/1564471/201902/1564471-20190213230103684-1889293130.png)
+![](https://github.com/skrskrcyy/git-/blob/master/10.png)
 
 &emsp;第二步——**截取commit字样后的任意字数，用作版本标识。如10feb9882453e57。**
 
